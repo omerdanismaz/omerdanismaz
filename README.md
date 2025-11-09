@@ -16,7 +16,7 @@
 
   <img src="https://skillicons.dev/icons?i=spring,symfony,nodejs,react,redis,rabbitmq,kafka,javascript,typescript,docker&perline=5" alt="Tech Stack">
 
-  <div style="margin-bottom: 20px;"></div>
+  <br>
 
   💬 Always open to collaborating on innovative projects and sharing knowledge.
 
