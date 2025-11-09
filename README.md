@@ -8,16 +8,13 @@
 
   🧠 **Full Stack Developer** focused on building scalable and efficient systems.  
   ⚙️ Passionate about clean architecture, microservices, and automation.  
-  🚀 Constantly learning and experimenting with **AI-driven development** and **cloud-native architectures**.
+  🚀 Constantly learning and experimenting with **AI-driven development** and **cloud-native architectures**.  
+  💬 Always open to collaborating on innovative projects and sharing knowledge.
 
   ---
 
   ### 🖥️ Tech Stack
 
   <img src="https://skillicons.dev/icons?i=spring,symfony,nodejs,react,redis,rabbitmq,kafka,javascript,typescript,docker&perline=5" alt="Tech Stack">
-
-  <br>
-
-  💬 Always open to collaborating on innovative projects and sharing knowledge.
 
 </div>
