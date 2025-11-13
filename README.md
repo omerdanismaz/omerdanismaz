@@ -13,7 +13,7 @@
 
   ---
 
-  ### 🖥️ Tech Stack
+  ### Tech Stack
 
   <img src="https://skillicons.dev/icons?i=spring,symfony,nodejs,react,redis,rabbitmq,kafka,javascript,typescript,docker&perline=5" alt="Tech Stack">
 
