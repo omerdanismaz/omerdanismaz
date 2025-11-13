@@ -4,7 +4,7 @@
 
   ---
 
-  ### 🙂 About Me
+  ### About Me
 
   🧠 **Full Stack Developer** focused on building scalable and efficient systems.  
   ⚙️ Passionate about clean architecture, microservices, and automation.  
